@@ -5,7 +5,7 @@ const textConfig = {
     text2: "Chúc chị một ngày thật vui^^",
     text3: "chị có muốn nhận quà hog ._.",
     text4: "Nhớ suy nghĩ kĩ rồi chọn nhé :v",
-    text5: "Ai thèm nhận quà chứ!",
+    text5: "Ai thèm nhận quà chứ",
     text6: "nhận quà",
     text7: "Viết gì đó về em đi (10 từ)",
     text8: "Gửi",
@@ -155,4 +155,5 @@ const textConfig = {
         });
       });
     });
+
   });
